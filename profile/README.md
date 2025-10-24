@@ -1,5 +1,4 @@
 <h1 align="center">IARA Tech</h1>
-  
 ---
 
 ## 💡 Visão Geral
