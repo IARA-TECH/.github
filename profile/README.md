@@ -1,5 +1,5 @@
-<h1 align="center">IARA Tech</h1>
----
+<h1 align="center">IARA 💙</h1>
+
 
 ## 💡 Visão Geral
 
