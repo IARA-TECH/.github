@@ -22,6 +22,7 @@ O colaborador tira uma foto do ábaco, e o aplicativo interpreta os dados, geran
 * `analise-exploratoria`
 * `script-postgresql`
 * `script-seed`
+* `iara-api-web-scraping`
 
 ---
 
