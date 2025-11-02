@@ -10,19 +10,20 @@ O colaborador tira uma foto do ábaco, e o aplicativo interpreta os dados, geran
 ---
 ### 🚀 Repositórios
 
-* `iara-api-chatbot`
 * `app-mobile`
+* `iara-api-chatbot`
 * `iara-api-sql`
 * `iara-api-mongo`
+* `iara-api-web-scraping`
+* `iara-api-modelo-ia`
 * `web-area-restrita`
-* `api-modelo-ia`
 * `rpa-banco`
 * `BI-dashboards`
-* `script-BI`
+* `bi-mobile`
 * `analise-exploratoria`
 * `script-postgresql`
 * `script-seed`
-* `iara-api-web-scraping`
+* `script-BI`
 
 ---
 
